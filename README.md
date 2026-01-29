@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Gaone09
-- 👀 I’m interested in java,python,R
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on anything related to coding
-- 📫 How to reach me gaonefx@gmail.com
+ 💫 About Me:
+👋 Hi, I’m @Gaone09<br><br>I’m a Computer Science & Software Engineering graduate with a strong focus on **frontend engineering** and a growing interest in **full-stack system design**.<br><br>I enjoy building real-world applications that solve practical problems, with clean UI, solid architecture, and scalable thinking.<br><br>---<br><br>## 👀 I’m Interested In<br><br>* Frontend Engineering (React, modern UI/UX)<br>* Building real-world web applications<br>* Transport ,healthcare, logistics systems<br>* Authentication & user flows<br>* Scalable system design<br>* Learning backend engineering deeply (Node.js & PostgreSQL)<br><br>---<br><br>🌱 I’m Currently Learning<br><br>* Advanced **React patterns** and state management<br>* **API integration** and frontend ↔ backend communication<br>* Backend development with **Node.js, Express & PostgreSQL**<br>* Authentication, authorization & role-based access<br>* QR code workflows & booking systems<br>* Writing clean, production-ready code<br><br>---<br><br>## 🚀 Featured Project: Mokoka Transport Booking System<br><br>A **full-stack transport booking platform** designed to simulate how modern transport companies manage bookings, passengers, and ticket verification.<br><br>🔹 What I Built (Frontend Focus)<br><br>* Clean booking flow using **React (Vite)**<br>* Route & trip selection UI<br>* Pickup and drop-off stop selection<br>* Passenger count selection<br>* One-way & round-trip booking logic<br>* QR code ticket generation<br>* Authentication UI (Login & Register)<br>* Protected routes with auth guards<br>* Reusable components (Navbar, Footer, PassengerSelector)<br><br>### 🔹 Backend (Learning & Growth Area)<br><br>* REST API with Node.js & Express<br>* PostgreSQL database design<br>* JWT authentication<br>* Booking & seat availability logic<br>* Admin QR code validation flow<br><br>> This project reflects how I approach software:<br>> **Start with a strong frontend experience, then design the backend to support real-world use cases.**<br><br>🔗 Repository:<br>👉 [https://github.com/Gaone09/mokoka-transport-booking](https://github.com/Gaone09/mokoka-transport-booking)<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Frontend**<br><br>* React (Vite)<br>* JavaScript (ES6+)<br>* Tailwind CSS<br>* React Router<br>* QR Code integration<br><br>**Backend (Learning)**<br><br>* Node.js<br>* Express<br>* PostgreSQL<br>* JWT Authentication<br><br>**Tools**<br><br>* Git & GitHub<br>* Docker (basic usage)<br>* VS Code<br>* Linux (Parrot OS)<br><br>---<br><br>## 💞️ I’m Looking to Collaborate On<br><br>* Frontend projects (React)<br>* Full-stack learning projects<br>* Open-source beginner-friendly repos<br>* Real-world application ideas<br>* UI/UX focused improvements<br><br>If it involves **clean code, learning, and solving problems**, I’m interested.<br><br>---<br><br>## 📫 How to Reach Me<br><br>📧 Email: **[gaone.otukile9@gmail.com](mailto:gaone.otukile9@gmail.com)**<br>💼 GitHub: [https://github.com/Gaone09](https://github.com/Gaone09)<br><br>---<br><br>## ⚡ Fun Fact<br><br>I learn best by **building complete systems**, not just small demos — even when I’m still learning the backend.<br>
 
-<!---
-Gaone09/Gaone09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaone-otukile-) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gaone09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gaone09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaone09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gaone09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Gaone09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Gaone09&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
